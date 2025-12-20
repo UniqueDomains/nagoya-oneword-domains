@@ -24,14 +24,14 @@ If you want to search & filters the complete database of [.NAGOYA one word domai
 | clxv.nagoya       | available | 60       | 1%     | 4      |           |         |         |
 | forty.nagoya      | available | 80       | 9%     | 5      |           |         |         |
 | foursome.nagoya   | available | 68       | 4%     | 8      |           |         |         |
-| grand.nagoya      | premium   | 84       | 24%    | 5      |           |         |         |
+| grand.nagoya      | premium   | 84       | 23%    | 5      |           |         |         |
 | leash.nagoya      | premium   | 90       | 7%     | 5      |           |         |         |
 | quartet.nagoya    | available | 62       | 7%     | 7      |           |         |         |
 | quaternity.nagoya | available | 54       | 4%     | 10     |           |         |         |
 | seventeen.nagoya  | premium   | 84       | 5%     | 9      |           |         |         |
 | sixteenth.nagoya  | available | 62       | 1%     | 9      |           |         |         |
 | troika.nagoya     | available | 62       | 8%     | 6      |           |         |         |
-| twentyone.nagoya  | premium   | 84       | 11%    | 10     |           |         |         |
+| twentyone.nagoya  | premium   | 84       | 10%    | 10     |           |         |         |
 | twoscore.nagoya   | available | 54       | 2%     | 8      |           |         |         |
 | xvii.nagoya       | available | 66       | 4%     | 4      |           |         |         |
 
@@ -71,9 +71,9 @@ If you want to search & filters the complete database of [.NAGOYA one word domai
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
